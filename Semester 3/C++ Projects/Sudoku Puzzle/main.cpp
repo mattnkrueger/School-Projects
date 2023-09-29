@@ -348,7 +348,7 @@ int main() {
     int menuDecision;
     int inputRow, inputCol, inputSquareValue;
     std::cin >> menuDecision; //obtain initial menuDecision
-    while ((menuDecision != 4) && (!milestone4.isSolved())) { //runs while the solver isnt exited and while the sudoku still needs to be solved
+    while ((menuDecision != 3) && (!milestone4.isSolved())) { //runs while the solver isnt exited and while the sudoku still needs to be solved
         if (menuDecision == 1) { //set a value in the puzzle
             std::cout << "Enter row (0-8), column (0-8), and value (1-9): ";
             std::cin >> inputRow >> inputCol >> inputSquareValue; //obtain values for user to alter sudoku
@@ -367,17 +367,13 @@ int main() {
                 std::cin >> menuDecision; //get new menu decision
             }
         }
-
-        else if (menuDecision == 2){ //solve puzzle
-            menuDecision = 4; //milestone 4 states that this function does not work... i chose to automatically exit solver when 2 is selected
-        }
-        else if (menuDecision == 3) { //restart puzzle
+        else if (menuDecision == 2) { //restart puzzle
             milestone4 = original;
             std::cout << ">>> Puzzle restarted." << std::endl;
             milestone4.menu(milestone4);
             std::cin >> menuDecision; //new decision
         }
-        else { //if not 4 but not a menu item
+        else { //if not a menu item
             std::cout << ">>> Invalid menu item entered." << std::endl;
             milestone4.menu(milestone4);
             std::cin >> menuDecision; //new decision

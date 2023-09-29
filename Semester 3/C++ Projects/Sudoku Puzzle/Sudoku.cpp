@@ -257,9 +257,8 @@ void Sudoku::menu(const Sudoku &obj) {
     std::cout << std::endl
               << "Menu:" << std::endl
               << "1. Set a value in the puzzle (row, col, num)" << std::endl
-              << "2. Solve the puzzle" << std::endl
-              << "3. Restart with a new puzzle" << std::endl
-              << "4. Exit" << std::endl
+              << "2. Restart with a new puzzle" << std::endl
+              << "3. Exit" << std::endl
               << "Enter your choice: ";
 }
 
