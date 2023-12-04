@@ -1,3 +1,5 @@
+#Part of Matthew Krueger's CIE Homework
+
 # Asteroids
 
 Original code came from FamTrinli  
