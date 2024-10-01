@@ -20,7 +20,14 @@
 1. [Rational Numbers](https://github.com/mattnkrueger/School-Projects/tree/main/Junior%20Year/Semester%205/Java%20Projects/S12_RationalNumbers_Medium)
 2. [Hangman GUI](https://github.com/mattnkrueger/School-Projects/tree/main/Junior%20Year/Semester%205/Java%20Projects/S21_Hangman_Medium)
 3. [Game Engine CLI](https://github.com/mattnkrueger/School-Projects/tree/main/Junior%20Year/Semester%205/Java%20Projects/S53_GameEngine_Medium)
-
+4. [Bouncing Balls GUI (soon)]()
+5. [TicTacToe GUI (soon)]()
+6. [Blackjack GUI (soon)]()
+7. [Computus (soon)]()
+8. [Merge Sort Algorithm (soon)]()
+9. [Networked Binary Search (soon)]()
+10. [Wordle GUI (soon)]()
+    
 ## 🏃 Running the Code
 As there are multiple languages included in this repository, I suggest you run these as follows:
 
