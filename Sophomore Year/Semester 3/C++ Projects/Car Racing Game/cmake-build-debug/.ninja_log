@@ -1,0 +1,9 @@
+# ninja log v5
+5	565	1698642139557981374	CMakeFiles/Racing.dir/main.cpp.o	c68056fd0f4ac21
+6	376	1698187481943285992	CMakeFiles/Racing.dir/Menu.cpp.o	f3781f20b76bedb6
+565	632	1698642139628611370	Racing	b3ec2a694f3a7fa7
+7	34	1698187481601610623	CMakeFiles/Racing.dir/GameState.cpp.o	7c6d92d545e83f01
+9	46	1701730456660616982	CMakeFiles/Racing.dir/GameState.cpp.o	1375bd45021eaf0b
+9	665	1701730457277333439	CMakeFiles/Racing.dir/Menu.cpp.o	cc794923c002961c
+8	773	1701730457386690542	CMakeFiles/Racing.dir/main.cpp.o	8b9218d32d5e23f0
+773	821	1701730457438172386	Racing	b3ec2a694f3a7fa7
