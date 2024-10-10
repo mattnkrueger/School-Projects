@@ -23,10 +23,10 @@
 4. [Bouncing Balls GUI (soon)]()
 5. [TicTacToe GUI (soon)]()
 6. [Blackjack GUI (soon)]()
-7. [Computus (soon)]()
-8. [Merge Sort Algorithm (soon)]()
+7. [Computus (in progress...)]()
+8. [Merge Sort Algorithm (in progress...)]()
 9. [Networked Binary Search (soon)]()
-10. [Wordle GUI (soon)]()
+10. [Wordle GUI (in progress...)]()
     
 ## 🏃 Running the Code
 As there are multiple languages included in this repository, I suggest you run these as follows:
