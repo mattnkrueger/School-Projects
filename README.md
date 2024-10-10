@@ -7,16 +7,16 @@
 - [University Email](mailto:mnkrueger@uiowa.edu)
 
 # :pencil: Projects
-**Freshman Year:**
+**Freshman Year Python Projects:**
 1. [Optimization Algorithm (Google Earth)](https://github.com/mattnkrueger/School-Projects/tree/main/Freshman%20Year/Semester%202/Python%20Projects/Google%20Earth)
 2. [Preference Algorithm (Movie Rating)](https://github.com/mattnkrueger/School-Projects/tree/main/Freshman%20Year/Semester%202/Python%20Projects/Movie%20Rating)
 
-**Sophomore Year:**
+**Sophomore Year C++ Projects:**
 1. [Asteroids GUI](https://github.com/mattnkrueger/School-Projects/tree/main/Sophomore%20Year/Semester%203/C%2B%2B%20Projects/Asteroids%20)
 2. [Car Racing GUI](https://github.com/mattnkrueger/School-Projects/tree/main/Sophomore%20Year/Semester%203/C%2B%2B%20Projects/Car%20Racing%20Game)
 3. [Sudoku CLI](https://github.com/mattnkrueger/School-Projects/tree/main/Sophomore%20Year/Semester%203/C%2B%2B%20Projects/Sudoku%20Puzzle)
 
-**Junior Year:**
+**Junior Year Java Projects:**
 1. [Rational Numbers](https://github.com/mattnkrueger/School-Projects/tree/main/Junior%20Year/Semester%205/Java%20Projects/S12_RationalNumbers_Medium)
 2. [Hangman GUI](https://github.com/mattnkrueger/School-Projects/tree/main/Junior%20Year/Semester%205/Java%20Projects/S21_Hangman_Medium)
 3. [Game Engine CLI](https://github.com/mattnkrueger/School-Projects/tree/main/Junior%20Year/Semester%205/Java%20Projects/S53_GameEngine_Medium)
